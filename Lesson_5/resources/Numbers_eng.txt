@@ -1,0 +1,15 @@
+One - 1
+Two - 2
+Three - 3
+Four - 4
+Three hundred five - 305
+Sixty eight - 68
+Zero - 0
+Thirteen - 13
+One hundred ten - 110
+Six hundred eighteen - 618
+Nine hundred - 900
+Nine hundred nine - 909
+Nine hundred nineteen - 919
+Nine hundred ninety - 990
+Nine hundred ninety nine - 999
